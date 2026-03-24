@@ -61,15 +61,9 @@
 
 <br/><br/>
 
-### 📊 Estatísticas
+
 
 <p align="center">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=GuilhermeMaglia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
-  />
   <img 
     align="center" 
     alt="Top Languages" 
